@@ -1,7 +1,7 @@
 ```yaml
 name: Ivan
 surname: Sosnovskiy
-age: 18
+age: 19
 location: Russia, Moscow
 hard skills: C++, Python, SQL, Reverse Engineering, Kotlin, Bash, JavaScript
 languages: Russian, English
